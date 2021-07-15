@@ -8,6 +8,11 @@
 * Pour modifier un fichier, il faut ajouter un fichier (*GitHub/Ajouter un fichier*) en veillant à garder le nom du fichier identique. Cela aura pour effet d'override l'ancien fichier.
 * Pour actualiser les données de ce fichier, rendez-vous dans la section *PowerBI/Mettre à jour les données*.
 
+### Télécharger un fichier depuis Github
+
+* Cliquez sur le fichier souhaité.
+* Une fois le fichier ouvert, dans l'en-tête cliquez sur **Raw**.
+* Puis faite **clic-droit** > **Enregistrer sous...**
 # PowerBI
 
 ### Connecter un fichier csv
@@ -30,8 +35,3 @@
 * Allez dans l'**éditeur Power Query**.
 * Dans l'onglet **Accueil**, Cliquez sur actualiser l'aperçu. Attention, il faut attendre quelques minutes après avoir upload les données sur github avant de réaliser cette action pour que cela fonctionne. 
 
-### Télécharger un fichier depuis Github
-
-* Cliquez sur le fichier souhaité.
-* Une fois le fichier ouvert, dans l'en-tête cliquez sur **Raw**.
-* Puis faite **clic-droit** > **Enregistrer sous...**

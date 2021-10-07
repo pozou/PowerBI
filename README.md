@@ -13,6 +13,10 @@
 * Cliquez sur le fichier souhaité.
 * Une fois le fichier ouvert, dans l'en-tête cliquez sur **Raw**.
 * Puis faite **clic-droit** > **Enregistrer sous...**
+
+/!\ Attention le format peut-être modifié et afficher des caractères spéciaux. Pour remettre le fichier en UTF-8, la méthode la plus simple, consiste à ouvrir votre .csv sur **bloc-notes** et à l'enregistrer sous un autre format :  
+**Fichier** > **Enregistrer sous** > **Encodage** > **UTF-8**.
+
 # PowerBI
 
 ### Connecter un fichier csv
